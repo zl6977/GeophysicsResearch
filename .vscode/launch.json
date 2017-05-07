@@ -7,7 +7,7 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": true,
-            "pythonPath": "C:\\Anaconda3\\python.exe",
+            "pythonPath": "D:\\python\\Anaconda3\\python.exe",
             "program": "${file}",
             "cwd": "${workspaceRoot}",
             "env": {},
